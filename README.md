@@ -11,12 +11,13 @@ Assum you have the yesterday stock price list, where:
 The python script in the repo will take the provided stock price list as variable and output:
 
 * List the best buy/sell plan, time & trade prices which would produce the max profit.
-* Max profit of the buy/sell plan
+
 
 ## Developement and test environment
 
 Windows 10  
 Python 3.9.2  
+Docker version 20.10.8, build 3967b7d  
 Visual Studio Code  
   
 Ubuntu 20.04.2 LTS  
