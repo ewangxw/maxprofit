@@ -39,7 +39,7 @@ Enter stock price as list, separated by space:
 Buy at price A$11.0 @ 10:01 and sell it at price A$20.0 @ 10:05 for the max profit A$9.0
 ```
 
-## Run the script in Docker
+## Run the script with Docker Container
 
 You can also build a docker image with the Dockerfile in the repo. And run the docker to execute the script without install the Python binaries on your local machine.
 
